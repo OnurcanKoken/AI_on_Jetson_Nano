@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=lxFPM93Qe8o&list=PLGs0VKk2DiYxP-ElZ7-QXIERFFPkOuP4_&index=28
+
+amaç: put a box around or outlining the target
+
+bir görüntüde bir sürü counter buluyoruz
+ama bizim asıl ilgilendiğimiz bir hedef var
+o hedefin etrafındaki counter önemli bizim için
+counter dediklerimiz de o hedefin etrafındaki
+x y değerlerinin bir list içerisinde ardarda yazılması
+
+şimdi geçen haftaki kodu aldık yazdık çalıştırdık her şey iyi mi diye
+sonra hedeflediğimiz nesneyi sadece gösterecek şekilde filtreyi ayarladık
+bu hedefimizin etrafına da bir counter çizicez, mask in etrafına çizilecek
+
+dk: 17:15
