@@ -13,9 +13,9 @@ import numpy as np
 # suitable width and height for raspi cam and usb cam
 width=1280
 height=720
-# for USB cam, uncomment the line below
+# for USB webcam
 cam=jetson.utils.gstCamera(width,height,'/dev/video1') # might need to try video0 or 2
-# for raspberry pi cam, uncomment the line below
+# for raspberry pi cam
 #cam=jetson.utils.gstCamera(width,height,'0') # might need to try video0 or 2
 
 # create neural network - imageNet - googlenet
